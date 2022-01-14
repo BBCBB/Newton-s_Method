@@ -1,1 +1,2 @@
-# Newton_Method
+# Newton's_Method
+**Newton's Method** is another iterative method to find the optimum of a differentiable function, just like the **gradient descent** method. The only difference between these methods is the direction they take toward the root of the function. In Newton's Method, this direction is more direct than in gradient descent, and that's because of using the Hessian of the function (second derivative.)
